@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FFC0CB; /* Light background color */
+    background-color: #00FFFF; /* Light background color */
     color: #333; /* Dark text color */
 }
 
@@ -34,7 +34,7 @@ section {
 footer {
     text-align: center; /* Center align footer text */
     padding: 10px 0; /* Padding for footer */
-    background: #FFC0CB; /* Same color as header */
+    background: #00FFFF; /* Same color as header */
     color: #fff; /* White text */
     position: relative;
     bottom: 0; /* Stick footer to the bottom */
