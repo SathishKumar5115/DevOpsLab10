@@ -1,0 +1,43 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #999999; /* Light background color */
+    color: #333; /* Dark text color */
+}
+
+header {
+    background: #000000; /* Bootstrap blue color */
+    color: #fff; /* White text */
+    padding: 20px 0; /* Padding for header */
+    text-align: center; /* Center align text */
+}
+
+main {
+    padding: 20px; /* Padding for main content */
+}
+
+h1, h2 {
+    margin: 0 0 10px; /* Margin below headings */
+}
+
+section {
+    margin-bottom: 20px; /* Space between sections */
+    padding: 15px; /* Padding for sections */
+    background: #fff; /* White background for sections */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+}
+
+footer {
+    text-align: center; /* Center align footer text */
+    padding: 10px 0; /* Padding for footer */
+    background: #000000; /* Same color as header */
+    color: #fff; /* White text */
+    position: relative;
+    bottom: 0; /* Stick footer to the bottom */
+    width: 100%; /* Full width footer */
+}
+
